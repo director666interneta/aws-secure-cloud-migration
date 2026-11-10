@@ -78,7 +78,7 @@ AWS VPC · EC2 · AMI · Auto Scaling · Application Load Balancer · RDS (MySQL
 
 ## My contribution
 
-[ПРОВЕРЬ И ПОПРАВЬ] I designed the architecture and built and tested the whole proof of concept on my own in the AWS Academy Learner Lab, and wrote the individual report. The architecture was then presented as part of a group presentation with Vsevolod and Mykyta.
+I designed the architecture and built and tested the whole proof of concept on my own in the AWS Academy Learner Lab, and wrote the individual report. The architecture was then presented as part of a group presentation with Vsevolod and Mykyta.
 
 > Note: the lab environment has been shut down. Account identifiers and my IP address are redacted from the screenshots.
 
